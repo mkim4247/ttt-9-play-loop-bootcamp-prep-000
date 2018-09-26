@@ -32,7 +32,7 @@ def turn(board)
     display_board(board)
   else
     turn(board)
-  endl
+  end
 end
 
 # Define your play method below
